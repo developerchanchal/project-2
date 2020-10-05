@@ -865,3 +865,11 @@ img{
     }
 
 }
+
+
+@media all and (max-width: 484px){
+    .search-right-btn .btn {
+        padding: 1rem 3rem;
+        font-size: .8rem;
+    }
+}
